@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplos;
+package proyectosCondicionales;
 
 /**
  *
@@ -21,6 +21,13 @@ public class OperadoresLogicos {
                 valorA & valorB);
         System.out.printf("And: %s | %s = %s\n", valorA, valorB, 
                 valorA | valorB);
+        
+        //V and F= F
+        //V and V= v
+        //F and F= F
+        //
+        //
+        //
        
         
     }
